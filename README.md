@@ -80,8 +80,9 @@ DuoTrust enables **peer-to-peer barter** or tokenized value exchange without enf
   "party_a": "public_key_A",
   "party_b": "public_key_B",
   "agreement": {
-    "type": "deal",
-    "content": "Barter, Vote, Contract, etc.",
+    "type": "Barter, Vote, Contract, etc.",
+    "content": "terms of the transaction based on its type",
+    "validFor": "specific duration or "Continuous""
     "timestamp": "ISO8601"
   },
   "signatures": {
