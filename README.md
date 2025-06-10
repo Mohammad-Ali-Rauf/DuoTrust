@@ -1,7 +1,7 @@
 # DuoTrust: The End of Consensus  
 _A Protocol for Peer-Centric Digital Truth_
 
-> "Truth is not democratic. Trust is not a vote."  
+> "Truth is a fact not a policy majority vote can change. Trust is not a vote, its personal conscience."  
 > — Mohammad Ali, Creator of DuoTrust
 
 ---
@@ -114,6 +114,28 @@ DuoTrust enables **peer-to-peer barter** or tokenized value exchange without enf
 * **Dispute Resolution**: Lies are visible. Truth is undeniable.
 
 ---
+
+## 🔍 The Question That Burned Down Blockchain
+
+I wasn’t trying to invent anything.
+
+I was just sitting there, thinking:
+> “Who TF are these strangers — validators, miners, stakers — to interfere in a deal I made with someone I trust?”
+
+That was the spark.
+
+Why do we need 10,000 nodes to validate a coffee purchase?
+
+Why does truth need to be voted on?
+
+Why has the internet — which was supposed to free us — chained us to middlemen again?
+
+The answer hit like lightning: we don’t.
+
+Truth is *already enough* when it's between two known, auditable parties.  
+The rest is just theater.
+
+And so DuoTrust was born — not as a blockchain, but as the escape from it.
 
 ## 🎯 Conclusion
 
