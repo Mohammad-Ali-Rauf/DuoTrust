@@ -1,7 +1,7 @@
 # DuoTrust: The End of Consensus  
 _A Protocol for Peer-Centric Digital Truth_
 
-> "Truth is a fact not a policy majority vote can change. Trust is not a vote, its personal conscience."  
+> "Truth is a fact not a policy that majority vote can change. Trust is not a vote, its personal conscience between people."  
 > — Mohammad Ali, Creator of DuoTrust
 
 ---
