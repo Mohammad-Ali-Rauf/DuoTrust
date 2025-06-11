@@ -1,0 +1,29 @@
+<!-- public/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>DuoTrust MVP</title>
+</head>
+<body>
+  <h1>DuoTrust MVP</h1>
+  <form id="dealForm">
+    <textarea placeholder="Enter agreement..." id="dealText"></textarea><br>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    document.getElementById("dealForm").onsubmit = async (e) => {
+      e.preventDefault();
+      const dealText = document.getElementById("dealText").value;
+      const response = await fetch("/submit", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ agreement: dealText, timestamp: new Date().toISOString() }),
+      });
+      const result = await response.json();
+      alert("Submitted: " + result.status);
+    };
+  </script>
+</body>
+</html>
