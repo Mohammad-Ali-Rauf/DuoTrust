@@ -15,16 +15,20 @@ No validators. No governance. No staking. Just **two parties signing**, and ever
 ## Don’t confuse DuoTrust with the apps it powers.
 
 > DuoTrust (Trust Philosophy)
-    ↓
+
+>    ↓
 
 > Peer-to-Peer Signing (Core Primitive)
-    ↓
+
+>    ↓
 
 > Open Public Library (Not a chain, a vault of shelves)
-    ↓
+
+>    ↓
 
 > Human-Conscience-Based Reputation
-    ↓
+
+>    ↓
 
 > Infinite Apps: Barter, Elections, Marketplaces, Alliances, Treaties
 
