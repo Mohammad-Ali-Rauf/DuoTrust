@@ -4,9 +4,6 @@ _A Protocol for Peer-Centric Digital Truth_
 > "Truth is a fact not a policy that majority vote can change. Trust is not a vote, its personal conscience between people."  
 > — Mohammad Ali, Creator of DuoTrust
 
-### Web3 said: read/write/own your assets.
-### DuoTrust replied: read/write/own YOURSELF.
-
 ---
 
 ## 📌 General Overview
