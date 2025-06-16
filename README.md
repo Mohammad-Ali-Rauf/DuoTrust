@@ -12,6 +12,18 @@ _A Protocol for Peer-Centric Digital Truth_
 
 No validators. No governance. No staking. Just **two parties signing**, and everyone else verifying. This restores the simplicity of human agreements — publicly auditable, yet privately owned.
 
+## Don’t confuse DuoTrust with the apps it powers.
+
+> DuoTrust (Trust Philosophy)
+    ↓
+> Peer-to-Peer Signing (Core Primitive)
+    ↓
+> Open Public Library (Not a chain, a vault of shelves)
+    ↓
+> Human-Conscience-Based Reputation
+    ↓
+> Infinite Apps: Barter, Elections, Marketplaces, Alliances, Treaties
+
 ---
 
 ## 🔍 How It Works
